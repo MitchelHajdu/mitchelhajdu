@@ -2,7 +2,7 @@
 
 My name is Mitchel! I'm 23 years old and i am a full stack developer living in Kerkrade, Netherlands. At the age of 12/13 years old i started programming and trouhgout the years i developed my skills. 
 
-### Questions
+### Questions? 💬
 Don't hesitate to contact me if you have any questions. 
 
 <!--
