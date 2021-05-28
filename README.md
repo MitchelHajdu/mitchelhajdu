@@ -2,6 +2,10 @@
 
 My name is Mitchel! I'm 23 years old and i am a full stack developer living in Kerkrade, Netherlands.
 
+### No public projects yet, i will share some later! ⚡
+Because most of the projects i work on are private i don't have anything to share yet! 🤔
+
+
 ### Questions? 💬
 Don't hesitate to contact me if you have any questions. 
 
