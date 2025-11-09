@@ -1,13 +1,16 @@
-### Hi! 👋
+### Hi there! 👋
 
-My name is Mitchel! I'm 27 years old and i am a full stack developer living in Kerkrade, Netherlands.
+I'm Mitchel, a 27-year-old full-stack developer based in Kerkrade, Netherlands.  
+I specialize in building fast, scalable e-commerce platforms and custom GrandMA3 tools.
 
-### No public projects yet, i will share some later! ⚡
-Because most of the projects i work on are private i don't have anything to share yet! 🤔
+Some of my projects include **Yourshops** (a multi-tenant e-commerce system) and **FocusTool** for GrandMA3.  
 
+### No public projects yet ⚡
+Most of my work is private, but I’ll be sharing some here soon!
 
 ### Questions? 💬
-Don't hesitate to contact me if you have any questions. 
+Don’t hesitate to reach out if you’d like to connect or have any questions.
+
 
 <!--
 **MitchelHajdu/mitchelhajdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
